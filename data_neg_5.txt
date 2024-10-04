@@ -1,0 +1,8 @@
+HAKI=>Jenderal Hak Atas Kekayaan Intelektual -1 1:0.991076059838222 2:1 3:-2.33333333333333 4:0.5 5:1 6:1 7:1 8:0.451106103786413
+PAN=>kekerasan juga mengakibatkan korban -1 1:1 2:0.5 3:-0.5 4:0 5:0.75 6:0 7:0 8:0.25
+Sumut=>Pemda memiliki mayoritas saham -1 1:0.91829583405449 2:0.625 3:-1.2 4:0 5:1 6:0.4 7:0 8:0.249042262007784
+Wamenhub=>mengalihkan mereka ke kereta api -1 1:1 2:0.5 3:-1.33333333333333 4:0 5:0.6 6:0.375 7:0 8:0.163095238095238
+GTC=>titik yang dipantau yakni Lhok -1 1:1 2:0.666666666666667 3:-1 4:0 5:0.6 6:0.333333333333333 7:0 8:0.228571428571429
+
+
+
